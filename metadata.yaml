@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '33160'
     url: http://www.gutenberg.org/2009/agents/33160
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28123#The-Scarlet-Feather
 gutenberg_issued: '2009-02-19'
 gutenberg_type: Text
 identifiers:
